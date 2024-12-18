@@ -1,0 +1,1 @@
+# Adapter_Struct_Design
